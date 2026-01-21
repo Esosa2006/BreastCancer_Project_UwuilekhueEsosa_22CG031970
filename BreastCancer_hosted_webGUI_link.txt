@@ -2,5 +2,5 @@ Name: Uwuilekhue Esosa
 Matric Number: 22CG031970
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method Used: Joblib
-Live URL of the hosted application: https://breast-cancer-detection-bp2e.onrender.com/
+Live URL of the hosted application: https://breastcancer-project-uwuilekhueesosa.onrender.com
 GitHub Repository Link: hhttps://github.com/Esosa2006/BreastCancer_Project_UwuilekhueEsosa_22CG031970
